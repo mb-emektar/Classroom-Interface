@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1637311148 source:d:\yeni klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw1\main.cpp
+	<iostream>
+	<string>
+	"Course.h"
+	"Student.h"
+
+1637311736 d:\yeni klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw1\course.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1637312058 d:\yeni klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw1\student.h
+	<iostream>
+	<string>
+
+1637311148 source:d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw1\main.cpp
+	<iostream>
+	<string>
+	"Course.h"
+	"Student.h"
+
+1637311736 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw1\course.h
+	<iostream>
+	<string>
+	"Student.h"
+
+1645549889 d:\yeni_klasör1\metu_ee\4.1\441\regular\projects\e2304533_hw1\student.h
+	<iostream>
+	<string>
+
